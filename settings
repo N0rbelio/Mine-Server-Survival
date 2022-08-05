@@ -1,0 +1,7 @@
+Assim que sacares o server podes pegar na pastas world e por na pasta saves do teu mine
+Ou
+Correr o Servidor para isso vais ter de ter sacar o java sdk que vai estar na message do disc
+<p>
+Quando abrires a pasta de pois de teres o sdk instalado vais ter 3 files run_5GB.bat, run_4GB.bat e run_3GB.bat cada um deles inicia o servidor mas cada um usa uma quantidade de ram.
+<p>
+Exemplo run_4GB.bat usa 4 GB de ram.
