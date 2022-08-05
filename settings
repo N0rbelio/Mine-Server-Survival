@@ -1,8 +1,10 @@
 Assim que sacares o server podes pegar na pastas world e por na pasta saves do teu mine
+Que deve etar em C:\Users\USER_NAME\AppData\Roaming\.minecraft\saves
 Ou
 Correr o Servidor para isso vais ter de ter sacar o java sdk que vai estar num link a parte.
 
 Quando abrires a pasta de pois de teres o sdk instalado vais ter 3 files run_5GB.bat, run_4GB.bat e run_3GB.bat 
 cada um deles inicia o servidor mas cada um usa uma quantidade de ram.
+Basta dares double click para dares start ao server.
 
 Exemplo run_4GB.bat usa 4 GB de ram.
